@@ -27,8 +27,8 @@ I'm a passionate backend developer with experience in building robust and scalab
 
 ### 🔧 Pinned Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?gamersumit&InnoTunes)](https://github.com/gamersumit/InnoTunes)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?gamersumit&Shop-Site)](https://github.com/gamersumit/Shop-Site)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gamersumit&repo=InnoTunes)](https://github.com/gamersumit/InnoTunes)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gamersumit&repo=Shop-Site)](https://github.com/gamersumit/Shop-Site)
 
 ---
 
