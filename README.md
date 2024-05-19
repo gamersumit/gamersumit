@@ -6,6 +6,18 @@ I'm a passionate backend developer with experience in building robust and scalab
 
 ---
 
+### 🚀 About Me
+
+- 🔭 I’m currently working on [InnoTune](https://github.com/gamersumit/InnoTune)
+- 🌱 I’m currently learning **GraphQL, FastAPI, Flask, Docker**
+- 💬 Ask me about **Django, Rest**
+- 📫 How to reach me: [sumitaggarwal12022002@gmail.com](mailto:sumitaggarwal12022002@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love to solve puzzles and play chess.
+
+---
+
+
 ### 🛠️ Technologies & Tools
 
 <p align="left">
@@ -46,23 +58,5 @@ I'm a passionate backend developer with experience in building robust and scalab
 [![Sumit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gamersumit&theme=radical)](https://github.com/gamersumit/github-readme-activity-graph)
 ---
 
-### 🌟 Profile Views
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=gamersumit&style=for-the-badge&color=blueviolet" alt="profile views" />
-</p>
-
----
-
-### 🚀 About Me
-
-- 🔭 I’m currently working on [InnoTune](https://github.com/gamersumit/InnoTune)
-- 🌱 I’m currently learning **GraphQL, FastAPI, Flask, Docker**
-- 💬 Ask me about **Django, Rest**
-- 📫 How to reach me: [sumitaggarwal12022002@gmail.com](mailto:sumitaggarwal12022002@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to solve puzzles and play chess.
-
----
 
 ![Footer](https://user-images.githubusercontent.com/gamersumit/InnoTune/footer-image.gif)
