@@ -40,10 +40,10 @@ I'm a passionate backend developer with experience in building robust and scalab
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=gamersumit&show_icons=true&theme=radical" alt="my github stats" width="48%" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gmaersumit&theme=radical" alt="my commit streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gamersumit&theme=radical" alt="my commit streak" width="48%" />
 </p>
 
-[![Sumit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gmaersumit&theme=radical)](https://github.com/gmaersumit/github-readme-activity-graph)
+[![Sumit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gamersumit&theme=radical)](https://github.com/gamersumit/github-readme-activity-graph)
 ---
 
 ### 🚀 About Me
