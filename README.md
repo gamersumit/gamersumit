@@ -12,7 +12,6 @@ I'm a passionate backend developer with experience in building robust and scalab
 - 🌱 I’m currently learning **GraphQL, FastAPI, Flask, Docker**
 - 💬 Ask me about **Django, Rest**
 - 📫 How to reach me: [sumitaggarwal12022002@gmail.com](mailto:sumitaggarwal12022002@gmail.com)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to solve puzzles and play chess.
 
 ---
